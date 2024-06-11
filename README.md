@@ -51,19 +51,19 @@
   </div>
   <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/dhanola/" target="_blank">
+<a href="#" target="_blank">
   <img align="center" alt="Rahul Dhanola | Linkedin" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/_DHANOLA" target="_blank">
+<a href="#" target="_blank">
   <img align="center" alt="Rahul Dhanola | Twitter" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/rahul_dhanola/" target="_blank">
+<a href="#" target="_blank">
   <img align="center" alt="Rahul Dhanola | Instagram" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:rahuldhanola31@gmail.com" >
+<a href="mailto:kl.sathsara@gmail.com" >
   <img align="center" alt="Rahul Dhanola | Gmail" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100013628134596">
+<a href="#">
     <img align="center" alt="Rahul Dhanola | Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
