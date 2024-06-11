@@ -9,7 +9,7 @@
 
 <div id="user-content-toc">
   <ul align="">
-    <summary><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px><h2 style="display: inline-block"><b>Technologies That I Know👨🏻‍💻<b/>  </h2></summary>
+    <summary><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px><h2 style="display: inline-block"> Technologies  </h2></summary>
   </ul>
 </div>
 
@@ -22,9 +22,14 @@
 <br>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div id="user-content-toc">
+	<ul>
+		<summary> 
+			<h2>🐍Snake Eating my Contributions ...</h2>
+		</summary>
+	</ul>
 
-## 🐍 A Snake Eating my Contributions...
-	
+</div>	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
@@ -32,7 +37,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⚙️ GitHub Analytics
+## ⚙️GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Sathsara99">
@@ -48,7 +53,7 @@
 
 
 
-  <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Can Connect With Me On</h2>
+  <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Connect with Me ...</h2>
  
   
 <p align="center">
