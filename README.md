@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,figma,firebase,github,html,js,mysql,nextjs,nodejs,react,redux,tailwind,ts,vscode&perline=8" />
   </a>
 </p>
-
+<br>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -28,7 +28,7 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-
+<br>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -40,7 +40,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+<br>
+	
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -52,22 +53,24 @@
   <br>
 <p align="center">
 <a href="#" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Linkedin" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="S | Linkedin" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="#" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Twitter" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  <img align="center" alt="S | Twitter" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
 <a href="#" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Instagram" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <img align="center" alt="S | Instagram" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:kl.sathsara@gmail.com" >
-  <img align="center" alt="Rahul Dhanola | Gmail" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="S | Gmail" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="#">
-    <img align="center" alt="Rahul Dhanola | Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+    <img align="center" alt="S | Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
-  
-<br>
+	
+
+
+
   
 
