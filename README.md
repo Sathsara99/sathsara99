@@ -9,7 +9,7 @@
 
 <div id="user-content-toc">
   <ul align="">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻 - </h2></summary>
+    <summary><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px><h2 style="display: inline-block"><b>Technologies That I Know👨🏻‍💻<b/>  </h2></summary>
   </ul>
 </div>
 
@@ -32,7 +32,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Sathsara99">
@@ -47,10 +47,10 @@
 
 
 
-  <div align="">
-  <h3><b>😄 Can Connect With Me On</b></h3>
-  </div>
-  <br>
+
+  <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Can Connect With Me On</h2>
+ 
+  
 <p align="center">
 <a href="#" target="_blank">
   <img align="center" alt="S | Linkedin" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
