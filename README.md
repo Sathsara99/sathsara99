@@ -37,8 +37,14 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⚙️GitHub Analytics
 
+<div id="user-content-toc">
+	<ul>
+		<summary> 
+			<h2>⚙️ GitHub Analytics</h2>
+		</summary>
+	</ul>
+	</div>
 <p align="center">
 <a href="https://github.com/Sathsara99">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -52,10 +58,14 @@
 
 
 
-
-  <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Connect with Me ...</h2>
+<div id="user-content-toc">
+	<ul>
+		<summary> 
+			 <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Connect with Me ...</h2>
+		</summary>
+	</ul>
+	</div>
  
-  
 <p align="center">
 <a href="#" target="_blank">
   <img align="center" alt="S | Linkedin" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
